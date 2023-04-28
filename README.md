@@ -32,3 +32,7 @@
   </a>
 </div>
 
+<div id="stat">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saydaliyev1996&theme=default" alt=""/>
+</div>
+
